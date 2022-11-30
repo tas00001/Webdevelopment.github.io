@@ -1,0 +1,17 @@
+
+* {margin:0; padding:0; box-sizing: border-box;}
+#header{ height:80 px; width:100%;background:black;text-align: center;}
+body{background-color:#FFFDD0; color: Black;}
+.progress{width: 210px; height:30px; background:#9cbab4;border-radius: 5px}
+.progress__fill{width:20%;height:100%; background:#009579;}
+.h1{Color: Black; font-size:28px;}
+.heading1{border-style: double;border-width: 5px; border-color: black; text-align: center;}
+.h2{Color: Black; font-size:22px;}
+.header{background-color: Black; height:80px; width:auto;}
+.p{color: Brown; font-size:20px;}
+.p{border-style: solid; border-color: black; background:#f7c88b;}
+.h3{color:#873600; font-size:22px;}
+.Benefits img{border-style: dotted; border-width:2px;padding:25px;}
+.Benefits img{ display: block;margin-left: auto;margin-right: auto;}
+.Benefits img{width:400px; height:300px}
+.Benefits{ text-align:center; font-size:20px;}
